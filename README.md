@@ -1,4 +1,4 @@
-##      Hi there 👋, I'm Mayur Karetha
+##      Hi there 👋, I'm Mayur Karetha  
 <br>- 👀I'm interested in Web Development **Web Development**<br><br>- 🌱 I’m currently learning **Flutter**<br><br>- 👨‍💻 Portfolio website that I'm working on [mayurkaretha.ml](mayurkaretha.ml)<br><br>- 💬 Ask me about **ReactJS, NodeJS, MongoDB.**<br><br>- 📫 Reach me at **0.mayurkaretha@gmail.com**<br><br>- ⚡ Fun fact **You can catch me play chess sometimes on lichess.com with username @MayurK999**
 
 
@@ -11,5 +11,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0-mayurkaretha&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=0-mayurkaretha&icon=5&color=0)
 
