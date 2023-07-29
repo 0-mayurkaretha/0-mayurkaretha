@@ -1,5 +1,5 @@
 ##      Hi there 👋, I'm Mayur Karetha  
-<br>- 👀 interested in **Web Development**<br>- 🌱 currently working on **Redux**<br>- 👨‍💻 Portfolio website that I'm working on **mayurkaretha.vercel.app**<br>- 💬 Ask me about **ReactJS, NodeJS, MongoDB.**<br>- 📫 Reach me at **0.mayurkaretha@gmail.com**<br>- ⚡ Fun fact: **You can catch me play chess sometimes on lichess.com with username @MayurK999**
+<br>- 👀 interested in **Web Development**<br>- 🌱 currently working on **Redux**<br>- 👨‍💻 Portfolio website that I'm working on **https://mayurkaretha.vercel.app/**<br>- 💬 Ask me about **ReactJS, NodeJS, MongoDB.**<br>- 📫 Reach me at **0.mayurkaretha@gmail.com**<br>- ⚡ Fun fact: **You can catch me play chess sometimes on lichess.com with username @MayurK999**
 
 
 # 💻 Tech Stack:
